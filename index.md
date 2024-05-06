@@ -16,3 +16,8 @@ many times before!
 ``` CS
 myVar = "Hello, world!";
 ```
+
+
+- [x] option 1 complete
+- [x] This  is complete
+- [ ] This is not complete
