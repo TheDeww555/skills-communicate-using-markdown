@@ -13,6 +13,6 @@ ive written in markdown
 many times before!
 ```
 
-``` javascript
-var myVar = "Hello, world!";
+``` CS
+myVar = "Hello, world!";
 ```
