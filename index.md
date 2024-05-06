@@ -6,3 +6,13 @@
 ###### This is H6
 
 ![Image of mr incredible](https://www.21-draw.com/wp-content/uploads/2022/06/character-archetype-the-hero.jpg)
+
+
+```
+ive written in markdown
+many times before!
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
